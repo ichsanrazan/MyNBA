@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyNBA</string>
+    <string name="team_name">Nama Team</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="name_me">Muhammad Ichsan Razan</string>
+    <string name="email_me">ichsanrazan33@gmail.com</string>
+    <string name="test">test</string>
+    <string name="name_team">name_team</string>
+    <string name="team_identity">Team Detail</string>
+    <string name="title_identity">title_identity</string>
+    <string name="content_identity">content_identity</string>
+    <string name="team_overview">Team Identity</string>
+    <string name="content_overview">content_overview</string>
+    <string name="check_instagram">Check Instagram</string>
+</resources>
